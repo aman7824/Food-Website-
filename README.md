@@ -28,10 +28,8 @@ A fully responsive and dynamic food ordering website built with **HTML**, **CSS*
 ---
 
 ## 📸 Screenshots
-
-> Add screenshots here (e.g., home page, menu, order page)  
+  
 > Format:
-> ## 📸 Screenshots
 
 ### 🏠 Home Page
 ![Home Page](screenshots/home.png)
